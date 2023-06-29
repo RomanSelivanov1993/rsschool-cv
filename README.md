@@ -1,4 +1,5 @@
 # rsschool-cv
+=
 # Selivanov Roman Olegovich;
 # *My contact email: SelivanovRoman1993@yandex.by;*
 # ___I want to learn a programming language;___
